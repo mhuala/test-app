@@ -13,7 +13,7 @@ export default function Home() {
   >
     <Navbar/>
     <div className="h-full w-full mt-30 border-xl rounded-2xl bg-transparent">
-     <h1 className="text-center w-full h-full text-center align-center justify-center">
+     <h1 className="text-center w-full h-full align-center justify-center">
       CHILOE
       </h1>
     </div>
